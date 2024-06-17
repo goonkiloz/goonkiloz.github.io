@@ -12237,10 +12237,10 @@ pre .code {
   color: white;
 }
 
-.cv-text {
+p.cv-text {
   color: white;
 }
 
-.cv-download {
+a.cv-download {
   color: white;
 }
